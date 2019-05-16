@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="android.telephony.SmsManager.sendDataMessage(destinationAddress,scAddress,destinationPort,data,sentIntent,deliveryIntent)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

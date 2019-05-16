@@ -1,0 +1,5 @@
+<application>
+  <component name="TestRecorderSettings">
+    <option name="ENABLE_TEST_FRAGMENT_RECORDING" value="true" />
+  </component>
+</application>
